@@ -1,0 +1,1 @@
+python -m eel main.py web --exclude win32com --exclude numpy --exclude cryptography --onefile --noconsole -i "C:\Users\User\Desktop\1305\hobby\python\calculator\icon.ico"
